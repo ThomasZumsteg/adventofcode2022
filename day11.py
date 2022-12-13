@@ -1,4 +1,4 @@
-"""Solution to day 10 for Advent of Code"""
+"""Solution to day 11 for Advent of Code"""
 
 from functools import reduce
 from get_input import get_input
